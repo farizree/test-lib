@@ -1,3 +1,3 @@
-module github.com/farizree/test-lib.git
+module github.com/farizree/test-lib
 
 go 1.22
